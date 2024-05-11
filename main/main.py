@@ -5,3 +5,5 @@ if number >= num:
     print("Hello")
 else:
     print("Good bye")
+
+sum = 322
